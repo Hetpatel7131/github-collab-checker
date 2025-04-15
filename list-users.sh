@@ -15,8 +15,8 @@
 API_URL="https://api.github.com"
 
 # GitHub username and personal access token (ensure these are exported in your shell)
-USERNAME=$USERNAME
-TOKEN=$TOKEN
+USERNAME=$username
+TOKEN=$token
 
 # Repository owner and name passed as arguments
 REPO_OWNER=$1
